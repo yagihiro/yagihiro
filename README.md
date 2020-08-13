@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a freelancer on two companies.
+I’m currently working as a freelancer on three companies.
 
 Multiple SIers ➡ Gree ➡ Recruit Sumai Company ➡ InstaVR ➡ SmartDrive.
 At Gree, I've done everything from player to management (deputy director, middle management up to 200 people).
