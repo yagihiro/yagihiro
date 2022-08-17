@@ -17,4 +17,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagihiro&theme=tokyonight_duo)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagihiro&layout=compact" alt="yagihiro" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagihiro&show_icons=true" alt="yagihiro" /></p>
